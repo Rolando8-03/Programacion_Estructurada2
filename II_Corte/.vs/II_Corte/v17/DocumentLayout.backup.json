@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A7F07C42-716A-4C15-8F21-1A3D456E3943}|II_Corte\\II_Corte.csproj|solutionrelative:ii_corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F07C42-716A-4C15-8F21-1A3D456E3943}|II_Corte\\II_Corte.csproj|c:\\users\\rolan\\music\\hola\\programacion_estructurada2\\ii_corte\\ii_corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7F07C42-716A-4C15-8F21-1A3D456E3943}|II_Corte\\II_Corte.csproj|C:\\Users\\rolan\\Music\\hola\\Programacion_Estructurada2\\II_Corte\\ii_corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7F07C42-716A-4C15-8F21-1A3D456E3943}|II_Corte\\II_Corte.csproj|solutionrelative:ii_corte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "II_Corte\\Form1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T15:32:40.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T15:32:40.674Z"
             }
           ]
         },
